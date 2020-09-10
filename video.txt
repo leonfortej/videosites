@@ -1,10 +1,6 @@
 googlevideo.com
-youtu.be
-youtube-nocookie.com
-youtube.com
-youtube.googleapis.com
-youtubei.googleapis.com
 ytimg.com
 ytimg.l.google.com
 netflix.com
-www.youtube.com
+((^)|(\.))youtu\.
+yohoho.io
