@@ -1,6 +1,14 @@
 googlevideo.com
 ytimg.com
 ytimg.l.google.com
-netflix.com
-((^)|(\.))youtu\.
 yohoho.io
+youtu.be
+youtube-nocookie.com
+youtube.com
+youtube.googleapis.com
+youtubei.googleapis.com
+youtube.com
+nflxso.net
+nflximg.com
+netflix.com
+nflxext.com
