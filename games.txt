@@ -1,2 +1,4 @@
 (^|\.)crazygames\.com$
 (^|\.)roblox\.com$
+(^|\.)dogeminder2\.com$
+(^|\.)dogeminder\.com$
