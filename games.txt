@@ -1,3 +1,2 @@
-crazygames.com
-build.crazygames.com
-videoplayerhub.com
+(^|\.)crazygames\.com$
+(^|\.)roblox\.com$
