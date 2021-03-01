@@ -39,3 +39,5 @@ superhex.io
 yohoho.io
 gladiators.io
 iogames.space
+copter.io
+yohoho.io
