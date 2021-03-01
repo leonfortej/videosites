@@ -43,3 +43,5 @@ copter.io
 yohoho.io
 vimeo.com
 netflix.com
+LOLBeans.io
+defly.io
