@@ -45,3 +45,4 @@ vimeo.com
 netflix.com
 LOLBeans.io
 defly.io
+lolbeans.io
