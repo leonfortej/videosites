@@ -46,3 +46,6 @@ netflix.com
 LOLBeans.io
 defly.io
 lolbeans.io
+paper.io
+mad.com
+mad.io
